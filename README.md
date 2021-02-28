@@ -18,6 +18,8 @@ Ansible –version
 # What is Ansible playbook:
 An Ansible® playbook is a blueprint of automation tasks—which are complex IT actions executed with limited or no human involvement. Ansible playbooks are executed on a set, group, or classification of hosts, which together make up an Ansible inventory. 
 
+<img width="462" alt="2" src="https://user-images.githubusercontent.com/33559730/109403873-962e3800-792e-11eb-9544-afb9a0bc6077.png">
+
 	All playbook is written in Yml format.
 	It starts with –
 Example:
