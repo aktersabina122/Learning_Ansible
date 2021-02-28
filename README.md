@@ -24,6 +24,8 @@ An Ansible® playbook is a blueprint of automation tasks—which are complex IT 
 	It starts with –
 Example:
 
+<img width="382" alt="3" src="https://user-images.githubusercontent.com/33559730/109403894-d392c580-792e-11eb-81ef-fed57da7a275.png">
+
  
 Explain: How to map with the server?
 Replace localhost with the server I need to attach.
