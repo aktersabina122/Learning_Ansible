@@ -11,6 +11,7 @@ brew install ansible
 Ansible –version
 
 # How to check if the installation is successful:
+![1](https://user-images.githubusercontent.com/33559730/109403851-47809e00-792e-11eb-8776-acd36c8de558.png)
  
 
 
